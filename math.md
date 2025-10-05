@@ -5,7 +5,8 @@ You can include any mathematical expression supported by [MathJax](https://www.m
 You can define the start and end of mathematical blocks with `$$`. 
 For example `$$ \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) $$` will be rendered as:
 
-$$ \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) $$ tetstsd
+$$ \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) $$ 
+tetstsd
 
 Make sure to include a space between the `$$` and the mathematical expression(s).
 
